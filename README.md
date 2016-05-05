@@ -30,18 +30,18 @@ https://github.com/un5t0ppab13/geminate
 
 `gem build geminate.gemspec`
   
-  Successfully built RubyGem
-  Name: geminate
-  Version: 0.0.0
-  File: geminate-0.0.0.gem
+    Successfully built RubyGem
+    Name: geminate
+    Version: 0.0.0
+    File: geminate-0.0.0.gem
 
 `gem install ./geminate-0.0.0.gem`
 
-	Successfully installed geminate-0.0.0
-	Parsing documentation for geminate-0.0.0
-	Installing ri documentation for geminate-0.0.0
-	Done installing documentation for geminate after 0 seconds
-	1 gem installed
+  	Successfully installed geminate-0.0.0
+  	Parsing documentation for geminate-0.0.0
+  	Installing ri documentation for geminate-0.0.0
+  	Done installing documentation for geminate after 0 seconds
+  	1 gem installed
 
 `pry`
   
@@ -64,8 +64,8 @@ and save the yaml file into: ~/.gem/
 
 `gem push geminate-0.0.0.gem`
 
-	enter your username
-	enter your password
+  	enter your username
+  	enter your password
 
 `gem list -r geminate`
 
