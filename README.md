@@ -79,6 +79,16 @@ and save the yaml file into: ~/.gem/
   	enter your username
   	enter your password
 
+
+#### List your gem:
+
 `gem list -r geminate`
+
+#### Once setup, save and push those changes:
+
+    gem build geminate.gemspec
+    gem install ./geminate-0.0.0.gem
+    gem push geminate-0.0.0.gem
+    gem list -r geminate
 
 ## Give us a star if you enjoyed building your own gem!
