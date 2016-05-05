@@ -43,9 +43,21 @@ https://github.com/un5t0ppab13/geminate
   	Done installing documentation for geminate after 0 seconds
   	1 gem installed
 
+#### Start pry or irb
+
 `pry`
+
+`irb`
   
+#### Require your new gem library
+
   `require 'geminate'`
+
+#### List all method you defined in your Class (aka gem)
+
+  `Geminate.methods(false)`
+
+#### Call a method in your Class (aka gem)
 
   `Geminate.how`
 
