@@ -46,8 +46,8 @@ https://github.com/un5t0ppab13/geminate
 `pry`
   
   `require 'geminate'`
-  
-  `geminate.how`
+
+  `Geminate.how`
 
 #### Create an account at:
 
