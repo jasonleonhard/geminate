@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'geminate'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2016-05-05'
   s.summary     = "geminate!"
   s.description = "Geminate the gem I made to teach you how to make your own gems!"

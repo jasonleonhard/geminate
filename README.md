@@ -86,8 +86,9 @@ and save the yaml file into: ~/.gem/
 
 `gem list -r geminate`
 
-#### Once setup, save and push those changes, change the version each time you push:
+#### Once setup, to save and push new changes, iterate a change to the version such as 0.0.1 each time you push:
 
+    gem build geminate.gemspec
     gem push geminate-0.0.1.gem
     gem build geminate.gemspec
     gem install ./geminate-0.0.1.gem
