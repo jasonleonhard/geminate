@@ -1,5 +1,7 @@
 # Build your own ruby gem!
 
+#### "Geminate: the gem I made to teach you how to build your own gems!"
+
 ## Fork this repository by clicking 'fork' at 
 
 https://github.com/un5t0ppab13/geminate
