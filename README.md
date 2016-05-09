@@ -86,11 +86,12 @@ and save the yaml file into: ~/.gem/
 
 `gem list -r geminate`
 
-#### Once setup, save and push those changes:
+#### Once setup, save and push those changes, change the version each time you push:
 
+    gem push geminate-0.0.1.gem
     gem build geminate.gemspec
-    gem install ./geminate-0.0.0.gem
-    gem push geminate-0.0.0.gem
+    gem install ./geminate-0.0.1.gem
+    gem push geminate-0.0.1.gem
     gem list -r geminate
 
 ## Give us a star if you enjoyed building your own gem!
