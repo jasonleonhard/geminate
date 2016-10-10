@@ -1,8 +1,14 @@
-#### "Geminate: the gem I made to teach you how to build your own gems!"
+# "Geminate: the gem I made to teach you how to build your own gems!"
 
-## Fork this repository by clicking 'fork' at
+    Geminate:
 
-[https://github.com/jasonleonhard/geminate](https://github.com/jasonleonhard/geminate)
+    1. to double or repeat.
+
+    2. to make or become doubled or paired.
+
+___
+
+## Fork this repository by clicking 'fork' button
 
 ## Or clone with ssh
 
@@ -24,7 +30,7 @@
 ___
 
 
-## You will not want your gem to be named geminate, that is mine, so do the following
+## You will not want your gem to be named "geminate", that is mine, so do the following
 
 1. Rename your repo and folder
 
@@ -111,14 +117,15 @@ ___
 
     gem push geminate-0.0.0.gem
 
-    enter your username
-    enter your password
+enter your username
+
+enter your password
 
 #### List your gem:
 
     gem list -r geminate
 
-# Congratulations! You have just created and publically pushed your first version of a ruby gem!
+# Congratulations! You have just created and publicly pushed your first version of a ruby gem!
 
 ___
 
@@ -206,10 +213,12 @@ ___
 
 ___
 
-#### If you need further help view the guides here
+### If you need further help view the guides here
 
 [http://guides.rubygems.org/rubygems-org-api/](http://guides.rubygems.org/rubygems-org-api/)
 
 ___
 
-# If you've enjoyed building your own gem why not give us a star!?!? Thank you.
+## If you've enjoyed building your own gem why not give us a star!?!?
+
+# Thank you.
