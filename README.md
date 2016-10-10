@@ -40,7 +40,7 @@ The above file holds the class methods you are creating for others to use, when 
       s.authors     = ["jasonleonhard"]
       s.email       = ['devbrights@gmail.com']
       s.files       = ["lib/geminate.rb"]
-      s.summary     = "geminate!"
+      s.summary     = "Geminate: 1. to double or repeat 2. to make or become doubled or paired."
       s.description = "Geminate the gem I made to teach you how to make your own gems!"
       s.homepage    = 'http://rubygems.org/gems/geminate'
       s.license     = 'MIT'
