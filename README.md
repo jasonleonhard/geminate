@@ -12,16 +12,30 @@
 
     git clone https://github.com/jasonleonhard/geminate.git
 
-#### create a new git branch and switch to it
+
+### Navigate into the repo
+
+    cd geminate
+
+### Create a new git branch and switch to it
 
     git checkout -b 0.0.0
 
-# You will not want your gem to be named geminate, that is mine, so do the following
-Rename your repo and folder
-Change all of the files named "geminate" to what your gem will be called
-When you see the word "geminate" anywhere, for the rest of this guide, I will assume you have/will change the name to match your intented new gem name
+___
 
-#### Look at the following files in the repo
+
+## You will not want your gem to be named geminate, that is mine, so do the following
+
+1. Rename your repo and folder
+
+2. Change all of the files named "geminate" to what your gem will be called
+
+3. When you see the word "geminate" anywhere, for the rest of this guide, I will assume you have/will change the name to match your intented new gem name
+
+___
+
+### Look at the following files in the repo
+
 #### lib/geminate.rb
 
     class geminate
@@ -49,11 +63,15 @@ The above file holds the class methods you are creating for others to use, when 
 
 #### Change all of the following:
 
-name, authors, email, summary, description, homepage, files
-And consider if you want to release your gem under an MIT or GPL licence
-Make certain your version is 0.0.0 the first time you are creating a gem
+1. name, authors, email, summary, description, homepage, files
 
-#### when you are satisified with all of your changes....
+2. Consider if you want to release your gem under an MIT or GPL licence
+
+3. Make certain your version is 0.0.0 the first time you are creating a gem
+
+___
+
+#### When you are satisified with all of your changes....
 
     git add .
     git commit -am "version 0.0.0 ready"
@@ -73,7 +91,9 @@ Save the yaml file into: ~/.gem/
 
     mv ~/Downloads/api_key.yaml ~/.gem/api_key.yaml
 
-#### To find your API key
+___
+
+### To find your API key
 
 [https://rubygems.org/profile/edit](https://rubygems.org/profile/edit)
 
@@ -85,12 +105,14 @@ Your API key is
 
 You will want to run the curl command they suggest to create a ~/.gem/credentials
 
+___
+
 ## PUBLISH WITH:
 
     gem push geminate-0.0.0.gem
 
-enter your username
-enter your password
+    enter your username
+    enter your password
 
 #### List your gem:
 
@@ -98,7 +120,9 @@ enter your password
 
 # Congratulations! You have just created and publically pushed your first version of a ruby gem!
 
-# Warning: To change any gem after its been uploaded to rubygems you own you must version it
+___
+
+### Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it
 
 #### geminate.gemspec
 
@@ -141,6 +165,8 @@ enter your password
 
 #### Your new version of the gem should be listed and if so you have sucessfully updated you gem
 
+___
+
 # What about using the gem?
 
 #### First install it by the version you want
@@ -178,8 +204,12 @@ enter your password
 
     Geminate.methods(false)
 
+___
+
 #### If you need further help view the guides here
 
 [http://guides.rubygems.org/rubygems-org-api/](http://guides.rubygems.org/rubygems-org-api/)
+
+___
 
 # If you've enjoyed building your own gem why not give us a star!?!? Thank you.
