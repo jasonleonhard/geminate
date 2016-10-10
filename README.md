@@ -6,15 +6,15 @@
 
 ## Or clone with ssh
 
-    `git clone git@github.com:jasonleonhard/geminate.git`
+    git clone git@github.com:jasonleonhard/geminate.git
 
 ## Or clone with https
 
-    `git clone https://github.com/jasonleonhard/geminate.git`
+    git clone https://github.com/jasonleonhard/geminate.git
 
 #### create a new git branch and switch to it
 
-    `git checkout -b 0.0.0`
+    git checkout -b 0.0.0
 
 # You will not want your gem to be named geminate, that is mine, so do the following
 Rename your repo and folder
@@ -55,11 +55,11 @@ Make certain your version is 0.0.0 the first time you are creating a gem
 
 #### when you are satisified with all of your changes....
 
-    `git add .
+    git add .
     git commit -am "version 0.0.0 ready"
     git push 0.0.0
     git checkout master
-    git merge 0.0.0`
+    git merge 0.0.0
 
 #### Create an account at:
 
@@ -71,7 +71,7 @@ Save the yaml file into: ~/.gem/
 
 #### On any Nix system (UNiX/LINUX):
 
-    `mv ~/Downloads/api_key.yaml ~/.gem/api_key.yaml`
+    mv ~/Downloads/api_key.yaml ~/.gem/api_key.yaml
 
 #### To find your API key
 
@@ -87,14 +87,14 @@ You will want to run the curl command they suggest to create a ~/.gem/credential
 
 ## PUBLISH WITH:
 
-    `gem push geminate-0.0.0.gem`
+    gem push geminate-0.0.0.gem
 
 enter your username
 enter your password
 
 #### List your gem:
 
-    `gem list -r geminate`
+    gem list -r geminate
 
 # Congratulations! You have just created and publically pushed your first version of a ruby gem!
 
@@ -116,7 +116,7 @@ enter your password
 
 #### Every new version must increase, to create what you will be giving to rubygems:
 
-    `gem build geminate.gemspec`
+    gem build geminate.gemspec
 
 [//]: # (Successfully built RubyGem)
 [//]: # (Name: geminate)
@@ -125,7 +125,7 @@ enter your password
 
 #### View this new file with
 
-    `ls -G -latrh`
+    ls -G -latrh
 
 #### You should now see something like this
 
@@ -133,7 +133,7 @@ enter your password
 
 #### You have only created the file, you need to give it to rubygems now
 
-    `gem push geminate-0.0.1.gem`
+    gem push geminate-0.0.1.gem
 
 #### Cool, now you have, go to your url that should be similar to this
 
@@ -145,38 +145,38 @@ enter your password
 
 #### First install it by the version you want
 
-    `gem install ./geminate-0.0.1.gem`
+    gem install ./geminate-0.0.1.gem
 
 #### Or install the latest version
 
-    `gem install geminate`
+    gem install geminate
 
 #### Verify you have it installed now
 
-    `gem list -r geminate`
+    gem list -r geminate
 
 #### Start pry or irb
 
-    `pry`
+    pry
 
 #### or
 
-    `irb`
+    irb
 
 #### Require your new gem library
 
-    `require 'geminate'`
+    require 'geminate'
 
 ## And now for the moment we have all been waiting for, you can use your gems class method
 
-    `Geminate.how`
+    Geminate.how
 
 [//]: # (Geminate: the gem I made to teach you how to build your own gems!)
 [//]: # (Learn how at: https://github.com/un5t0ppab13/geminate)
 
 #### List all method you defined in your Class (aka gem)
 
-    `Geminate.methods(false)`
+    Geminate.methods(false)
 
 #### If you need further help view the guides here
 
