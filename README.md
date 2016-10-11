@@ -34,6 +34,7 @@ ___
 <img src="https://help.github.com/assets/images/help/repository/fork_button.jpg">
 
 ### Or clone with
+
   ## SSH
 
     git clone git@github.com:jasonleonhard/geminate.git
@@ -258,24 +259,19 @@ ___
 
 # Enjoyed building your own gem? Why not give us a star!?!?
 
-<img src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
+<img  style="pointer-events: none; cursor: default" src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
 
 # Thank you.
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script src="https://buttons.github.io/buttons.js"></script>
 
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
 
-
-
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-style="mega" data-count-href="/jasonleonhard/geminate/stargazers" data-count-api="/repos/jasonleonhard/geminate#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
 
 <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
@@ -300,19 +296,15 @@ ___
 
 
 <!-- FOLLOW -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
 
 <!-- STAR -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
 
 <!-- WATCH -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/geminate on GitHub">Watch</a>
 
 <!-- FORK -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/geminate on GitHub">Fork</a>
 
 <!-- CLONE -->
