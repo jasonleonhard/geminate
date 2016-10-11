@@ -263,9 +263,6 @@ ___
 
 # Thank you.
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<script src="https://buttons.github.io/buttons.js"></script>
-
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-style="mega" data-count-href="/jasonleonhard/geminate/stargazers" data-count-api="/repos/jasonleonhard/geminate#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
 
 <!-- Place this tag in your head or just before your close body tag. -->
