@@ -29,7 +29,7 @@
 
 ___
 
-### Fork this repository by clicking the 'fork' button
+### Fork this repository by clicking the 'fork' button above
 
 <img src="https://help.github.com/assets/images/help/repository/fork_button.jpg">
 
@@ -259,21 +259,17 @@ ___
 
 # Enjoyed building your own gem? Why not give us a star!?!?
 
-<img  style="pointer-events: none; cursor: default" src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
+<img src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
 
 # Thank you.
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script src="https://buttons.github.io/buttons.js"></script>
 
-<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
-
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-style="mega" data-count-href="/jasonleonhard/geminate/stargazers" data-count-api="/repos/jasonleonhard/geminate#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
@@ -283,10 +279,6 @@ ___
 [![N|fork](images/fork.png)](https://github.com/jasonleonhard/geminate/fork)
 [![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
-<a href="https://github.com/jasonleonhard"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>
-
-<a href="https://github.com/jasonleonhard"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://github.com/jasonleonhard/geminate/fork"></a>
-
 
 <!-- https://buttons.github.io/ -->
 
@@ -294,9 +286,8 @@ ___
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-
-<!-- FOLLOW -->
-<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+<!-- FORK -->
+<a class="github-button" href="https://github.com/jasonleonhard/geminate/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/geminate on GitHub">Fork</a>
 
 <!-- STAR -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
@@ -304,8 +295,8 @@ ___
 <!-- WATCH -->
 <a class="github-button" href="https://github.com/jasonleonhard/geminate" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/geminate on GitHub">Watch</a>
 
-<!-- FORK -->
-<a class="github-button" href="https://github.com/jasonleonhard/geminate/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/geminate on GitHub">Fork</a>
+<!-- FOLLOW -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
 
 <!-- CLONE -->
 <p>
