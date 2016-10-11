@@ -268,8 +268,6 @@ ___
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-
 <!-- In markdown this should build the buttons, with images, which trigger actions -->
 [![N|star](images/star.png)](https://github.com/jasonleonhard/geminate/star)
 [![N|watch](images/watch.png)](https://github.com/jasonleonhard/geminate/subscription)
